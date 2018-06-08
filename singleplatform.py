@@ -4,7 +4,7 @@
 # SinglePlatform is a single platform to publish your menu and business information everywhere it needs to be.
 # https://www.singleplatform.com/
 #
-# A Python 3.6 implementation of the SinglePlatform API described here:
+# This is a Python 3.6 implementation of the SinglePlatform API described here:
 # https://s3-us-west-1.amazonaws.com/fetchy-public/SinglePlatformRestAPI.pdf
 #
 # This is meant to be a replacement for the Python 2 example given by SinglePlatform found here:
